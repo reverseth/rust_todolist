@@ -35,7 +35,7 @@ Here we bind the program on the i3's Super+t shortcut:
 echo -n "bindsym $mod+t exec rust_todolist" >> .config/i3/config
 ```
 
-### To run from polybar
+### To run from clickable icon on polybar
 
 Add this module (can be customised) in your polybar config file:
 
@@ -46,7 +46,6 @@ type = custom/text
 click-left = ~/.local/bin/rust_todolist
 
 content = "  "
-
 ```
 
 ## How to use
