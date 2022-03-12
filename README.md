@@ -59,22 +59,22 @@ $ rust_todolist
 
 Simply launch the program.
 
-[![Display tasks](_img/add3.png)]
+![Display tasks](_img/add3.png)
 
 ### Add task to the Todo List
 
 Lauch the program, and prefix your task with "+".
 
-[![Add tasks 1](_img/add1.png)]
+![Add tasks 1](_img/add1.png)
 
-[![Add tasks 2](_img/add2.png)]
+![Add tasks 2](_img/add2.png)
 
-[![Add tasks 3](_img/add3.png)]
+![Add tasks 3](_img/add3.png)
 
 ### Remove task to the Todo List
 
 Lauch the program, select the task, press Enter.
 
-[![Delete tasks 1](_img/del1.png)]
+![Delete tasks 1](_img/del1.png)
 
-[![Delete tasks 2](_img/del2.png)]
+![Delete tasks 2](_img/del2.png)
