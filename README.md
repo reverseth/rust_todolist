@@ -67,7 +67,7 @@ Simply launch the program.
 
 ### Add task to the Todo List
 
-Lauch the program, and prefix your task with "+".
+Launch the program, and prefix your task with "+".
 
 ![Add tasks 1](_img/add1.png)
 
@@ -77,7 +77,7 @@ Lauch the program, and prefix your task with "+".
 
 ### Remove task to the Todo List
 
-Lauch the program, select the task, press Enter.
+Launch the program, select the task, press Enter.
 
 ![Delete tasks 1](_img/del1.png)
 
