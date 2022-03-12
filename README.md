@@ -1,6 +1,9 @@
 # rust_todolist - Rust TodoList
 
-The goal of this project is to learn the Rust programming language and file management with the language.
+The main goal of this project is to learn the Rust programming language.
+
+This tool can help you to easily manage a todolist.
+No feature. Only add/delete tasks
 
 Tested on Arch Linux only.
 
@@ -20,6 +23,8 @@ cd rust_todolist
 cargo build --release
 cp target/release/rust_todolist ~/.local/bin/
 ```
+
+The binary will probably be available soon on the project's release page.
 
 ### To run from CLI
 
