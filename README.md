@@ -75,7 +75,7 @@ Launch the program, and prefix your task with "+".
 
 ![Add tasks 3](_img/add3.png)
 
-### Remove task to the Todo List
+### Remove task from the Todo List
 
 Launch the program, select the task, press Enter.
 
